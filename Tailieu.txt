@@ -4,3 +4,4 @@ bai1 API gateway:
 	https://www.youtube.com/watch?v=8PJUnnhLXiI
 bai2 Spring Cloud Config Server:
 	https://openplanning.net/11723/tim-hieu-ve-spring-cloud-config-server-voi-vi-du
+	https://openplanning.net/11727/tim-hieu-ve-spring-cloud-config-client-voi-vi-du
