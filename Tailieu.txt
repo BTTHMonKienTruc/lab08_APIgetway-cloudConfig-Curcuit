@@ -1,0 +1,6 @@
+bai1 API gateway: 
+	https://techmaster.vn/posts/36479/spring-cloud-gateway-va-rate-limitter
+	https://github.com/TechMaster/SpringBoot28Days/tree/main/16-SpringCloudGateway
+	https://www.youtube.com/watch?v=8PJUnnhLXiI
+bai2 Spring Cloud Config Server:
+	https://openplanning.net/11723/tim-hieu-ve-spring-cloud-config-server-voi-vi-du
